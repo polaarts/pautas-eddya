@@ -4,3 +4,4 @@
 
 ## ÍNDICE:
 - [Pauta Control 2](control2_pauta.md)
+- [Pauta Control 3](control3_pauta.md)

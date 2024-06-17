@@ -1,4 +1,4 @@
-## CONTROL 3 (Pauta) - Estructura de Datos y Algoritmos
+## CONTROL 4 (Pauta) - Estructura de Datos y Algoritmos
 
 ### PRIMERA PARTE - 20 puntos
 

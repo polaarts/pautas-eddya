@@ -36,9 +36,7 @@ public TreeNode invertTree(TreeNode root) {
 
    - El tiempo promedio de inserción en un BST es O(log n), donde n es el número de nodos en el árbol. Sin embargo, en el peor de los casos, la inserción puede tomar tiempo O(n).
 
-2. **F** - Un Heap está siempre balanceado.
-
-   - No, un heap no siempre está balanceado en el sentido tradicional de que todos los niveles del árbol tengan la misma cantidad de nodos.
+2. **V** - Un Heap está siempre balanceado.
 
 3. **V** - El proceso de eliminar el valor máximo de un max-heap implica intercambiar el nodo raíz con el último nodo y luego ajustar el heap.
 
